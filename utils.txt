@@ -1,0 +1,5 @@
+1. Instalar phpunit con composer
+    composer require --dev phpunit/phpunit
+2. composer dump-autoload -o
+3. Desde consola ejecuto el siguiente comando
+    C:\xampp\htdocs\pruebas_unitarias\vendor\bin\phpunit test
